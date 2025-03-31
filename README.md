@@ -94,9 +94,4 @@ jupyter notebook
 
 ## License
 
-Acknowledgments
-TensorFlow/Keras team
-
-Scikit-learn developers
-
-IPL dataset providers
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thepkcodes/IPL-Score-Prediction/blob/main/LICENSE) file for details.
